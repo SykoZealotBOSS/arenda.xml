@@ -988,7 +988,4 @@
             <param name="Название клиники">Клиника «ЭмоциУМ»</param>
             <param name="Возможность записи">true</param>
             <param name="Телефон для записи">+8(909)190-20-30</param>
-        </offer>
-        </offers>
-    </shop>
 </yml_catalog>
